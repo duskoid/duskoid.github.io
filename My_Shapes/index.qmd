@@ -5,8 +5,7 @@
 Sumber [VIA assessment](pn.pdf)
 ---
 
-## 0) Ringkasan 1 Halaman
-
+##
 **Peran Inti:** Saya adalah seorang pelajar yang berusaha sebaik mungkin untuk berguna bagi orang-orang di sekitar saya. Sebagai anak pertama, saya diajarkan mandiri, yang membuat saya lebih independen.
 
 **Misi:** Membantu orang lain sebanyak mungkin dan berdampak seluas mungkin dalam bidang apapun.
@@ -19,7 +18,7 @@ Sumber [VIA assessment](pn.pdf)
 
 * **S — Spiritual Gifts:** Teaching, Appreciating.
 * **H — Heart (Minat & Cinta Pelayanan):** berbagi ilmu dan pengalaman kepada teman-teman dan orang yang membutuhkannya.
-* **A — Abilities (Kemampuan):** programming(Python, C, C++, Java, Quarto [novice]), simple medical treatment.
+* **A — Abilities (Kemampua
 * **P — Personality (Gaya Kepribadian Kerja):** strategis, adaptif.
 * **E — Experiences (Pengalaman Kunci):** Head of Operations di 2 event publik berbeda, tutor sebaya, medical staff di 3 event biasa, 1 event olahraga.
 

@@ -4,6 +4,7 @@ Berikut cara saya melakukan review: mengguan chatGPT, saya mengattach [file prom
 ChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda berikan dan menilai memakai rubrik tugas UTS (skala 1–5 per kriteria). Rekap skor siap diunduh sebagai CSV: [Download CSV ringkasan](sandbox:/mnt/data/UTS_self_assessment.csv).
 
 # Hasil Self-Assessment UTS (URL: duskoid.github.io)
+[Skor penilaian](UTS-5_Skor.xlsx)
 
 ## Identifikasi
 
