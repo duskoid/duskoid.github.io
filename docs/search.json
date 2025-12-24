@@ -14,7 +14,7 @@
     "href": "All_About_me/index.html",
     "title": "1  UTS-1 All About Me",
     "section": "",
-    "text": "1.1 Who am I?\nSaya hanyalah rakyat biasa. Bukan yang di Solo, tetapi manusia medioker pada umumnya. Jika ada award si paling medioker, mungkin itu adalah saya.\nTak ada ceritanya saya menguasai suatu hal, entah itu dari mata kuliah, alat musik, maupun hal-hal sepele lainnya seperti memasak. Jack of all trades, master of none, istilahnya. Entah bagaimana, hal ini selalu terjadi pada setiap siklus hidup saya dari kecil. Sehingga, tak jarang saya lost interest dengan berbagai hal, meskipun saya mudah untuk tertarik dengan hal lain pula.\nSaya dibesarkan oleh orang tua saya dengan penuh kata-kata motivasi (serta konsekuensi fisik, tentunya) yang membuat saya merasa “terpaksa” menjadi versi terbaik dari diri saya, menurut orang tua saya. Tentunya saat saya masih kecil, saya tidak memusingkan hal ini, selama saya bisa bermain game. Memang lugu diri saya saat itu.\nSeiring berjalannya waktu, kekangan orang tua saya makin melemah, namun hal ini membuat saya terlena dengan kebebasan. It’s more like I’m not used to it. It felt like I can do anything, right? But I also have the choice of not doing it. Singkatnya, kebebasan membuat saya malas.\nKemalasan ini adalah downfall untuk diri saya sendiri (yang, pada akhirnya, membentuk diri saya sekarang.)",
+    "text": "1.1 Who am I?\nSaya adalah mahasiswa di Sekolah Teknik Elektro dan Informatika ITB, dengan beberapa keterampilan half-baked seperti sedikit ilmu medik, sedikit keterampilan dalam programming dengan bahasa C, Python, dan Java, dan sedikit keterampilan musik.\nLahir di Kab.Bekasi tahun 2006. Saat ini tinggal di Cimahi unvoluntarily.\nSharing pikiran singkat ada di medium: https://medium.com/@rafipeen, suka asbun di twitter https://x.com/peenfrfr.\nSaya hanyalah rakyat biasa. Bukan yang di Solo, tetapi manusia medioker pada umumnya. Jika ada award si paling medioker, mungkin itu adalah saya.\nTak ada ceritanya saya menguasai suatu hal, entah itu dari mata kuliah, alat musik, maupun hal-hal sepele lainnya seperti memasak. Jack of all trades, master of none, istilahnya. Entah bagaimana, hal ini selalu terjadi pada setiap siklus hidup saya dari kecil. Sehingga, tak jarang saya lost interest dengan berbagai hal, meskipun saya mudah untuk tertarik dengan hal lain pula.\nSaya dibesarkan oleh orang tua saya dengan penuh kata-kata motivasi (serta konsekuensi fisik, tentunya) yang membuat saya merasa “terpaksa” menjadi versi terbaik dari diri saya, menurut orang tua saya. Tentunya saat saya masih kecil, saya tidak memusingkan hal ini, selama saya bisa bermain game. Memang lugu diri saya saat itu.\nSeiring berjalannya waktu, kekangan orang tua saya makin melemah, namun hal ini membuat saya terlena dengan kebebasan. It’s more like I’m not used to it. It felt like I can do anything, right? But I also have the choice of not doing it. Singkatnya, kebebasan membuat saya malas.\nKemalasan ini adalah downfall untuk diri saya sendiri (yang, pada akhirnya, membentuk diri saya sekarang.)",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>UTS-1 All About Me</span>"
     ]
@@ -74,9 +74,109 @@
     "href": "My_Concepts/index.html",
     "title": "6  UAS-1 My Concepts",
     "section": "",
-    "text": "Mau hidup epik ? Write your Life Story\nApa itu berkonsep?",
+    "text": "6.1 Pendahuluan\nKetika kita berbicara tentang “pemerataan akses pendidikan” di Indonesia maupun global, diskursus publik sering kali terjebak pada infrastruktur fisik: sekolah yang rusak, ketiadaan internet, atau akses jalan yang sulit. Ini adalah definisi aksesibilitas yang valid, namun tidak lengkap. Kita melupakan satu tembok penghalang yang tidak terlihat secara fisik namun mematikan potensi literasi jutaan siswa: disabilitas kognitif dan mental yang tidak terdiagnosis (Undiagnosed Cognitive Disabilities).\nDi dalam kelas-kelas yang padat dengan rasio guru-siswa 1:40, siswa dengan Disleksia, ADHD, atau gangguan pemrosesan sensori sering kali hanya dianggap sebagai siswa yang “malas”, “nakal”, atau “lamban”. Padahal, masalah utamanya bukanlah kemauan belajar, melainkan ketidakcocokan antara cara otak mereka memproses informasi dengan metode pengajaran konvensional.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "11  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "My_Knowledge/index.html",
+    "href": "My_Knowledge/index.html",
+    "title": "9  UAS-4 My Knowledge",
+    "section": "",
+    "text": "9.1 Transformasi Peta Pengetahuan Guru\nNilai sejati dari teknologi ini bukan sekadar pada kecanggihan algoritmanya, melainkan pada jenis pengetahuan yang dihasilkannya bagi para pendidik. Mengacu pada taksonomi pengetahuan dalam rekayasa, saat ini guru sering kali terjebak pada Peta Pengetahuan Primitif (Primitive Knowledge Map). Guru hanya mengorganisir pengetahuan deklaratif atau fakta (“Apa”): siapa siswa yang pintar dan siapa yang tertinggal. Pemahaman ini statis dan hanya menyentuh level kognitif terendah, yaitu Mengingat dan Memahami.\nInovasi AI sederhana ini hadir untuk mengonversi pemahaman tersebut menjadi Peta Pengetahuan Aplikatif (Problem-Solving Knowledge Map). AI tidak hanya memberikan label, tetapi mengintegrasikan data konseptual siswa dengan langkah prosedural (“Bagaimana”). Contohnya, sistem tidak hanya berkata “Siswa A lambat,” tetapi memberikan panduan: “Siswa A memiliki pola regressive saccades (Disleksia), gunakan font Sans-serif dan berikan waktu baca tambahan.”\nDengan begitu, teknologi ini dapat membimbing guru melewati proses pemecahan masalah yang dinamis. Guru diberdayakan untuk naik kelas dari sekadar mengetahui definisi masalah, menuju level taksonomi Bloom yang lebih tinggi; menganalisis penyebab kegagalan literasi, mengevaluasi strategi pengajaran, dan akhirnya menciptakan lingkungan kelas yang inklusif. Inilah produk pengetahuan sesungguhnya: sebuah sistem yang memampukan guru memindahkan “beban” kesulitan belajar siswa yang sebelumnya tak terangkat.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4 My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Concepts/index.html#computer-vision-untuk-deteksi-disleksia",
+    "href": "My_Concepts/index.html#computer-vision-untuk-deteksi-disleksia",
+    "title": "6  Menembus Batas Kognitif: Demokratisasi Akses Pendidikan Melalui AI Sederhana",
+    "section": "9.1 Computer Vision untuk Deteksi Disleksia",
+    "text": "9.1 Computer Vision untuk Deteksi Disleksia\nMenggunakan kamera depan (selfie camera), kita dapat menerapkan algoritma eye-tracking sederhana tanpa sensor inframerah mahal. * Cara Kerja: Saat siswa membaca teks pendek di layar, AI menganalisis pergerakan bola mata (saccades). * Indikator: Siswa neurotipikal memiliki pola gerakan mata yang linier, sedangkan siswa disleksia sering menunjukkan pola regressive saccades (gerakan mata mundur berulang). * Output: Aplikasi memberikan peta panas (heatmap) visual kepada guru tentang di mana siswa mengalami kesulitan membaca.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Menembus Batas Kognitif: Demokratisasi Akses Pendidikan Melalui AI Sederhana</span>"
+    ]
+  },
+  {
+    "objectID": "My_Concepts/index.html#predictive-analytics-melalui-digital-biomarkers",
+    "href": "My_Concepts/index.html#predictive-analytics-melalui-digital-biomarkers",
+    "title": "6  Menembus Batas Kognitif: Demokratisasi Akses Pendidikan Melalui AI Sederhana",
+    "section": "9.2 Predictive Analytics melalui Digital Biomarkers",
+    "text": "9.2 Predictive Analytics melalui Digital Biomarkers\nKita dapat menyisipkan asesmen dalam bentuk micro-games selama 5 menit. * Cara Kerja: Sistem menganalisis data motorik halus di balik layar: tekanan sentuhan, kecepatan reaksi, dan pola jitter (getaran jari). * Indikator: Data ini adalah biomarker digital yang efektif untuk mendeteksi gejala awal Disgrafia (kesulitan menulis) atau ADHD (pola impulsivitas). * Manfaat: Deteksi dini dapat dilakukan di dalam kelas tanpa harus menunggu rujukan ke psikolog klinis yang mahal.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Menembus Batas Kognitif: Demokratisasi Akses Pendidikan Melalui AI Sederhana</span>"
+    ]
+  },
+  {
+    "objectID": "My_Concepts/index.html#konsep-logika-mesin-abstrak-untuk-aksesibilitas",
+    "href": "My_Concepts/index.html#konsep-logika-mesin-abstrak-untuk-aksesibilitas",
+    "title": "6  UAS-1 My Concepts",
+    "section": "6.2 Konsep: Logika Mesin Abstrak untuk Aksesibilitas",
+    "text": "6.2 Konsep: Logika Mesin Abstrak untuk Aksesibilitas\nDalam merumuskan solusi untuk masalah pendidikan, kita perlu memulai dari sebuah konsep yang kuat. Merujuk pada definisi fundamentalnya, konsep adalah sebuah “logika mesin abstrak” yang bekerja mengumpulkan dan mengarahkan kekuatan [K] yang ada untuk mengangkat beban masalah yang berat [B]. Jika kita membedah masalah aksesibilitas pendidikan melalui kacamata ini, kita akan menemukan bahwa strategi kita selama ini sering kali salah sasaran karena gagal mengidentifikasi [K] dan [B] dengan tepat.\nBeban masalah [B] yang sesungguhnya bukanlah sekadar kurangnya gedung sekolah, melainkan adanya “tembok penghalang tak kasat mata” (invisible barrier). Di dalam kelas dengan rasio guru-siswa 1:40, beban beratnya adalah ketidakmampuan sistem untuk mendeteksi ribuan siswa dengan disabilitas kognitif (seperti Disleksia, ADHD, atau gangguan pemrosesan) yang akhirnya gagal belajar karena dianggap “bodoh” atau “malas”. Ini adalah beban pedagogis yang selama ini gagal diangkat oleh sistem konvensional.\nDi sisi lain, kita memiliki kekuatan [K] yang sangat besar namun belum terarah: aksesibilitas smartphone murah yang sudah dimiliki jutaan guru dan algoritma AI (software) yang dapat diduplikasi tanpa biaya. Selama ini, kekuatan komputasi ini hanya digunakan untuk komunikasi, hiburan, atau sekadar “solusi instan” untuk tugas akademik, bukan untuk memecahkan masalah pendidikan yang krusial.\nMaka, konsep yang saya tawarkan—sebagai logika mesin abstraknya—adalah menggeser tumpuan solusi dari “Atom” (fisik) ke “Bits” (perangkat lunak). Konsep ini bekerja dengan cara mengarahkan kekuatan komputasi smartphone (ubiquitous computing) untuk mengangkat beban diagnosis untuk disabilitas mental atau kognitif yang selama ini hanya bisa dilakukan oleh klinik mahal.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
+    ]
+  },
+  {
+    "objectID": "My_Opinions/index.html",
+    "href": "My_Opinions/index.html",
+    "title": "7  UAS-2 My Opinions",
+    "section": "",
+    "text": "SApa itu beropini? Opini Berpengaruh\nBagiamana menjaadi menarik? Menjadi Menarik",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-2 My Opinions</span>"
+    ]
+  },
+  {
+    "objectID": "My_Innovations/index.html",
+    "href": "My_Innovations/index.html",
+    "title": "8  UAS-3 My Innovations",
+    "section": "",
+    "text": "8.1 Inovasi: Transformasi Kelas Menjadi Knowledge Marketplace\nKetika berbicara tentang inovasi teknologi pendidikan, kita sering terjebak pada kecanggihan alatnya semata. Namun, jika merujuk pada prinsip sistem pembelajaran yang berorientasi nilai, inovasi sejati haruslah berpusat pada Penciptaan Nilai Bersama (Value Co-creation). Dalam konteks ini, smartphone dan AI hanyalah sarana untuk mengubah dinamika kelas dari sekadar tempat transfer materi menjadi sebuah Knowledge Marketplace (Pasar Pengetahuan) yang hidup.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>UAS-3 My Innovations</span>"
+    ]
+  },
+  {
+    "objectID": "My_Concepts/index.html#logika-mesin-abstrak-untuk-aksesibilitas",
+    "href": "My_Concepts/index.html#logika-mesin-abstrak-untuk-aksesibilitas",
+    "title": "6  UAS-1 My Concepts",
+    "section": "6.2 Logika Mesin Abstrak untuk Aksesibilitas",
+    "text": "6.2 Logika Mesin Abstrak untuk Aksesibilitas\nDalam merumuskan solusi untuk masalah pendidikan, kita perlu memulai dari sebuah konsep yang kuat. Merujuk pada definisi fundamentalnya, konsep adalah sebuah “logika mesin abstrak” yang bekerja mengumpulkan dan mengarahkan kekuatan [K] yang ada untuk mengangkat beban masalah yang berat [B]. Jika kita membedah masalah aksesibilitas pendidikan melalui kacamata ini, kita akan menemukan bahwa strategi kita selama ini sering kali salah sasaran karena gagal mengidentifikasi [K] dan [B] dengan tepat.\nBeban masalah [B] yang sesungguhnya bukanlah sekadar kurangnya gedung sekolah, melainkan adanya “tembok penghalang tak kasat mata” (invisible barrier). Di dalam kelas dengan rasio guru-siswa 1:40, beban beratnya adalah ketidakmampuan sistem untuk mendeteksi ribuan siswa dengan disabilitas kognitif (seperti Disleksia, ADHD, atau gangguan pemrosesan) yang akhirnya gagal belajar karena dianggap “bodoh” atau “malas”. Ini adalah beban pedagogis yang selama ini gagal diangkat oleh sistem konvensional.\nDi sisi lain, kita memiliki kekuatan [K] yang sangat besar namun belum terarah: aksesibilitas smartphone murah yang sudah dimiliki jutaan guru dan algoritma AI (software) yang dapat diduplikasi tanpa biaya. Selama ini, kekuatan komputasi ini hanya digunakan untuk komunikasi, hiburan, atau sekadar “solusi instan” untuk tugas akademik, bukan untuk memecahkan masalah pendidikan yang krusial.\nMaka, konsep yang saya tawarkan—sebagai logika mesin abstraknya—adalah menggeser tumpuan solusi dari “Atom” (fisik) ke “Bits” (perangkat lunak). Konsep ini bekerja dengan cara mengarahkan kekuatan komputasi smartphone (ubiquitous computing) untuk mengangkat beban diagnosis untuk disabilitas mental atau kognitif yang selama ini hanya bisa dilakukan oleh klinik mahal.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
+    ]
+  },
+  {
+    "objectID": "My_Innovations/index.html#inovasi-transformasi-kelas-menjadi-knowledge-marketplace",
+    "href": "My_Innovations/index.html#inovasi-transformasi-kelas-menjadi-knowledge-marketplace",
+    "title": "8  UAS-3 My Innovations",
+    "section": "",
+    "text": "8.1.1 Mekanisme Penciptaan Nilai (Value Creation)\nInovasi yang saya tawarkan mengubah peran guru dan teknologi dalam ekosistem kelas melalui mekanisme pasar pengetahuan:\n\nGuru sebagai Need Creator (Pencipta Kebutuhan): Dalam model ini, guru tidak lagi bingung menghadapi siswa yang gagal. Guru bertindak sebagai Need Creator yang mengiklankan kebutuhan spesifik: “Saya membutuhkan pemahaman mengapa siswa A tidak bisa membaca lancar”. Kebutuhan ini bukan sekadar administrasi, melainkan kebutuhan akan pemecahan masalah nyata di kelas.\nSistem AI sebagai Fasilitator Value Creator: Di sinilah teknologi masuk. Aplikasi skrining berbasis AI (Computer Vision & Predictive Analytics) merespons kebutuhan guru tersebut. Melalui interaksi siswa dengan aplikasi (bermain game atau membaca), sistem memproduksi data analitis. Proses ini memberikan “rasa menciptakan nilai” (sense of creating value) karena data yang dihasilkan bukan sekadar angka, melainkan wawasan mendalam tentang kondisi kognitif siswa.\n\n\n\n8.1.2 Produk Pengetahuan sebagai Solusi Nyata\nHasil dari inovasi ini adalah terciptanya apa yang disebut sebagai Produk Pengetahuan (Knowledge Artifacts).\nJika sebelumnya guru hanya memiliki asumsi subjektif (“anak ini nakal”), inovasi ini menghasilkan artefak nyata berupa:\n\nPeta Panas Perhatian (Attention Heatmap): Memvisualisasikan fokus mata siswa (Disleksia).\nProfil Biomarker Digital: Grafik motorik halus siswa (ADHD/Disgrafia).\n\nArtefak ini adalah representasi pemahaman mendalam yang memiliki nilai nyata (real value). Nilai nyatanya terletak pada kegunaannya: produk pengetahuan ini bisa langsung dimanfaatkan guru untuk merancang strategi intervensi yang tepat, atau bahkan diunggah sebagai rekam jejak perkembangan siswa yang dapat dipelajari oleh guru di tingkat kelas berikutnya.\nDengan demikian, inovasi ini bukan sekadar tentang mendeteksi penyakit, melainkan tentang Penciptaan Nilai Bersama (Value Co-creation) antara guru dan teknologi untuk membentuk karakter dan pola berpikir profesional yang inklusif.\n\n\n8.1.3 Analisis Perubahan:\n\nIntegrasi Teori: Menggunakan istilah Need Creator, Value Creator, dan Knowledge Marketplace untuk menjelaskan cara kerja sistem AI tersebut secara filosofis.\nProduk Pengetahuan: Mengubah istilah teknis “hasil output AI” menjadi “Produk Pengetahuan/Artefak” agar sesuai dengan definisi sumber.\nFilosofi: Menekankan bahwa tujuan akhirnya adalah Value Co-creation, bukan sekadar diagnosis medis.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>UAS-3 My Innovations</span>"
+    ]
+  },
+  {
+    "objectID": "My_Professional_Reviews/index.html",
+    "href": "My_Professional_Reviews/index.html",
+    "title": "10  UAS-5 My Professional Reviews",
+    "section": "",
+    "text": "Untuk melAkukan review, seperti pada pendekatan AI, kita membutuhkan rubrik",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Professional Reviews</span>"
     ]
   }
 ]
